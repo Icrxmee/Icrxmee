@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá !!! Eu sou o Pedro ícaro
 
-<!--
-**Icrxmee/Icrxmee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente focando em estudar linguagens Back-end
 
-Here are some ideas to get you started:
+## Linguagens
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inlineblock"><br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python" />
+  </a>
+</p>
+
+## Hobbies 
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines="Olá+Mundokkkk")](https://git.io/typing-svg)
+ 
+
+ Um cinéfilo muito fã de tecnologia, buscando imergir mais e mais nesse mundo da tecnologia e programação.
+ ##
+ ## Para me conhcer melhor!
+
+ <div>
+ <a href="https://www.instagram.com/pedroicarx_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="josepedroicaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/pedro-ícaro-0460a02b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ </div>
