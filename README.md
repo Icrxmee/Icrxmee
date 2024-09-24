@@ -13,7 +13,7 @@
 
 ## Hobbies 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines="Olá+Mundokkkk")](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines="Your+lips+my+lips")](https://git.io/typing-svg)
  
 
  Um cinéfilo muito fã de tecnologia, buscando imergir mais e mais nesse mundo da tecnologia e programação.
