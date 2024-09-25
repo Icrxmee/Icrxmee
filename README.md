@@ -11,6 +11,15 @@
   </a>
 </p>
 
+## IDEs/Ferramentas
+
+<div style="display: inlineblock"><br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,obsidian" />
+  </a>
+</p>
+
 ## Hobbies 
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Your+lips+my+lips)](https://git.io/typing-svg)
