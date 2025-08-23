@@ -16,7 +16,7 @@
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,obsidian" />
+    <img src="https://skillicons.dev/icons?i=vscode,obsidian,manus" />
   </a>
 </p>
 
