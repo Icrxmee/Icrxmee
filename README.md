@@ -1,4 +1,4 @@
-## Olá !!! Eu sou o Pedro ícaro
+## Olá !!! Me chamo Pedro ícaro
 
 - 🌱 Atualmente focando em estudar linguagens Back-end
 
