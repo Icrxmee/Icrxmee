@@ -1,6 +1,6 @@
 ## Olá !!! Me chamo Pedro ícaro
 
-- 🌱 Atualmente focando em estudar linguagen Back-end
+- 🌱 Atualmente focando em estudar linguagens Back-end
 
 ## Linguagens
 
