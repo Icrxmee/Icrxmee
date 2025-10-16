@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente focando em estudar linguagens Back-end
 
-## Linguagens
+## Stacks
 
 <div style="display: inlineblock"><br>
 <p align="left">
