@@ -1,32 +1,23 @@
-## Olá !!! Me chamo Pedro Ícaro
+##  🚀 Olá !!! Me chamo Pedro Ícaro
 
-- 🌱 Atualmente estudando linguagens Back-end, com mais foco em Python.
+Atualmente estudando desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
 
-## Stacks
-
-<div style="display: inlineblock"><br>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mysql" />
-  </a>
-</p>
-
-## Tools
+## ⚙️ Stacks e Ferramentas
 
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,sequelize,anaconda,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mysql,sequelize,anaconda,git" />
   </a>
 </p>
 
 ##  
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Thinking+'bout+you.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Be+patient...+Be+patient.)](https://git.io/typing-svg)
  
 
  ##
- ## Para me conhecer melhor!
+ ## Onde também me encontrar.
 
  <div>
  <a href="https://www.instagram.com/pedroicarx_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
