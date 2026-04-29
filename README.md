@@ -7,16 +7,16 @@
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,nodejs,express,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mysql" />
   </a>
 </p>
 
-## IDEs/Ferramentas
+## Tools
 
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,obsidian,git,sequelize" />
+    <img src="https://skillicons.dev/icons?i=vscode,sequelize,anaconda,git" />
   </a>
 </p>
 
