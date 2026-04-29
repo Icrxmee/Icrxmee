@@ -1,8 +1,8 @@
-##  🚀 Olá !!! Me chamo Pedro Ícaro
+##  👩🏻‍💻 **`Pedro Icaro`**
 
-Atualmente estudando desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
+Me chamo Pedro Icaro, tenho 21 anos e sou natural de Fortaleza. Atualmente estou concluindo meu curso de Análise e Desenvolvimento de Sistemas na UNIFAMETRO. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
 
-## ⚙️ Stacks e Ferramentas
+## ⚙️ Stacks e Tecnologias
 
 <div style="display: inlineblock"><br>
 <p align="left">
