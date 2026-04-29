@@ -1,26 +1,34 @@
-##  👩🏻‍💻 **`Pedro Icaro`**
+##  👩🏻‍💻 Pedro Icaro
 
-Me chamo Pedro Icaro, tenho 21 anos e sou natural de Fortaleza. Atualmente estou concluindo meu curso de Análise e Desenvolvimento de Sistemas na UNIFAMETRO. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
+Atualmente estou concluindo meu curso de Análise e Desenvolvimento de Sistemas. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
 
 ## ⚙️ Stacks e Tecnologias
 
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mysql,sequelize,anaconda,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mysql,sequelize,python,anaconda,git" />
   </a>
 </p>
 
-##  
+### 📊 Estatísticas 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Firacode&duration=4800&vCenter=true&lines=Be+patient...+Be+patient.)](https://git.io/typing-svg)
- 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Icrxmee&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+  />
 
- ##
- ## Onde também me encontrar.
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icrxmee&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
- <div>
- <a href="https://www.instagram.com/pedroicarx_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="josepedroicaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/pedro-ícaro-0460a02b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- </div>
+</p>
+
