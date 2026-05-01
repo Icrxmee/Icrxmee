@@ -11,12 +11,7 @@ Atualmente estou concluindo meu curso de Análise e Desenvolvimento de Sistemas.
   </a>
 </p>
 
-### 📊 Estatísticas 
-
-<p align="center">
-  <img height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Icrxmee&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&border_radius=15"
-  />
+##
   <img height="200"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Icrxmee&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&border_radius=15"
   />
