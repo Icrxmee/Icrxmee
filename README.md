@@ -1,6 +1,6 @@
 ##  👩🏻‍💻 Pedro Icaro
 
-Atualmente estou concluindo meu curso de Análise e Desenvolvimento de Sistemas. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
+Formado em Análise e Desenvolvimento de Sistemas. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
 
 ## ⚙️ Stacks e Tecnologias
 
