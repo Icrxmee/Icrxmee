@@ -10,7 +10,7 @@
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mysql,sequelize,python,git" />
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mysql,sequelize,python" />
   </a>
 </p>
 
