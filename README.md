@@ -1,6 +1,9 @@
-##  👩🏻‍💻 Pedro Icaro
+##  👩🏻‍💻 Olá! Eu sou Pedro Ícaro
 
-Formado em Análise e Desenvolvimento de Sistemas. Além do mais, sigo estudando, em maior foco, desenvolvimento back-end com Node.js, Express e bancos de dados relacionais, com foco em aplicações web.
+💻 Desenvolvedor Back-end  
+🎓 Graduado em Análise e Desenvolvimento de Sistemas.  
+🚀 Estudando Node.js, Express, Python e SQL  
+📚 Construindo projetos para evoluir em desenvolvimento web e engenharia de software.
 
 ## ⚙️ Stacks e Tecnologias
 
