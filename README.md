@@ -1,11 +1,11 @@
-##  👩🏻‍💻 Olá! Eu sou Pedro Ícaro
+##  Olá! Eu sou Pedro Ícaro
 
-💻 Desenvolvedor Back-end  
-🎓 Graduado em Análise e Desenvolvimento de Sistemas.  
-🚀 Estudando Node.js, Express, Python e SQL  
-📚 Construindo projetos para evoluir em desenvolvimento web e engenharia de software.
+ Desenvolvedor Back-end  
+ Graduado em Análise e Desenvolvimento de Sistemas.  
+ Estudando Node.js, Express, Python e SQL  
+ Construindo projetos para evoluir em desenvolvimento web e engenharia de software.
 
-## ⚙️ Stacks e Tecnologias
+##  Stacks e Tecnologias
 
 <div style="display: inlineblock"><br>
 <p align="left">
