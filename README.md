@@ -14,8 +14,3 @@
   </a>
 </p>
 
-##
-  <img height="200"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Icrxmee&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&border_radius=15"
-  />
-</p>
