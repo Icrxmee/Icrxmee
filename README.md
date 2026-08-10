@@ -1,9 +1,10 @@
 ##  Olá! Eu sou Pedro Ícaro
 
- Desenvolvedor Back-end  
- Graduado em Análise e Desenvolvimento de Sistemas.  
- Estudando Node.js, Express, Python e SQL  
- Construindo projetos para evoluir em desenvolvimento web e engenharia de software.
+Formado em Análise e Desenvolvimento de Sistemas.
+Sou desenvolvedor em formação contínua, atualmente direcionando
+meus estudos principalmente para **desenvolvimento back-end**.
+Meu foco está em aprender através da prática, desenvolvendo projetos
+e transformando conceitos estudados em aplicações funcionais.
 
 ##  Stacks e Tecnologias
 
