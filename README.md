@@ -11,7 +11,7 @@ e transformando conceitos estudados em aplicações funcionais.
 <div style="display: inlineblock"><br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mysql,sequelize,python" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,nodejs,express,mysql,sequelize" />
   </a>
 </p>
 
